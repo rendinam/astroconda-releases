@@ -1,2 +1,2 @@
-## 2020/5/7 - CALDP_astrometry_DRZ_rc3
+## 2020/5/8 - CALDP_astrometry_DRZ_rc4
 ### drizzlepac 3.1.8rc3
