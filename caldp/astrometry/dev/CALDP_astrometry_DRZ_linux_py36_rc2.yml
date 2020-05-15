@@ -46,7 +46,8 @@ dependencies:
   - cycler==0.10.0
   - decorator==4.4.2
   - docutils==0.16
-  - git+https://github.com/spacetelescope/drizzlepac@3.1.8rc2
+  - drizzlepac==3.1.6
+    #  - git+https://github.com/spacetelescope/drizzlepac@3.1.8rc2
   - filelock==3.0.12
   - fitsblender==0.3.6
   - html5lib==1.0.1
