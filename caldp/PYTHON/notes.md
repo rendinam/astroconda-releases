@@ -1,2 +1,2 @@
-## 2020/5/21 - CALDP_PYTHON_DRZ_rc1
-### drizzlepac 3.1.8rc1
+## 2020/5/21 - CALDP_PYTHON_NULL_rc2
+### hstcal 2.3.2
