@@ -15,13 +15,13 @@ and then creating the environment with it.
 
 ### Install the pipeline environment
 ```
-$ curl -O https://ssb.stsci.edu/releases/caldp/tim/latest-linux.yml
-$ conda env create -n caldp_tim --file latest-linux.yml
+$ curl -O https://ssb.stsci.edu/releases/caldp/20200528/latest-linux.yml
+$ conda env create -n caldp_20200528 --file latest-linux.yml
 ```
 ### Activate the pipeline environment
 
 ```
-$ source activate caldp_tim
+$ source activate caldp_20200528
 ```
 
 Each new delivery iteration of the calibration environment will need to be
