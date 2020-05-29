@@ -10,13 +10,13 @@ Python dependencies are taken directly from PyPI or development repositories as 
 
 ### Install the pipeline environment
 ```
-$ curl -O https://ssb.stsci.edu/releases/caldp/NEWONE/latest-linux.yml
-$ conda env create -n caldp_NEWONE --file latest-linux.yml
+$ curl -O https://ssb.stsci.edu/releases/caldp/20200529/latest-linux.yml
+$ conda env create -n caldp_20200529 --file latest-linux.yml
 ```
 ### Activate the pipeline environment
 
 ```
-$ source activate caldp_NEWONE
+$ source activate caldp_20200529
 ```
 
 Each new delivery iteration of the calibration environmentwill need to be installed using the above commands.
